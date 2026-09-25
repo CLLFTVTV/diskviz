@@ -1,0 +1,22 @@
+# Python / uv
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+
+# Node / frontend
+node_modules/
+frontend/.react-router/
+frontend/build/
+frontend/dist/
+
+# Runtime data
+diskviz.db
+diskviz.db-wal
+diskviz.db-shm
+*.log
+
+# Stray user artifacts
+scan_*.json
